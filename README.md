@@ -9,6 +9,8 @@ Once an ATMega328 has been flashed with the Arduino Boot Loader, it is able to b
 Refer this schematic to perform connectics between Teensy programmer and the ATMega328
 (image available in current repository: assets/programmer-electronic-schema.png)
 
+![Teensy2 Arduino 328p serial programmer](https://raw.githubusercontent.com/Akrobate/ArduinoSerialProgrammer/master/assets/programmer-electronic-schema.png)
+
 
 ## Customizations
 
